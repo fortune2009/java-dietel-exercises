@@ -3,9 +3,9 @@ import java.util.Arrays;
 
 public class SalesPeoplePay{
     private final int WAGE = 200;
-    private SecureRandom randomNumber = new SecureRandom();
-    private int[] grossSale = new int[100];
-    private int[] frequency = new int[9];
+    private final SecureRandom randomNumber = new SecureRandom();
+    private final int[] grossSale = new int[100];
+    private final int[] frequency = new int[9];
 
     public int getWAGE() {
         return WAGE;
