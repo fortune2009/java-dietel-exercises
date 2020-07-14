@@ -1,16 +1,31 @@
-chapter7/salesCommission/.idea
-chapter7/salesCommission/out
-chapter7/salesCommission/salesCommission.iml
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
 
-chapter7/airlineReservationsSystem/.idea
-chapter7/airlineReservationsSystem/out
-chapter7/airlineReservationsSystem/airlineReservationsSystem.iml
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 
-chapter11/catchingException/.idea
-chapter11/catchingException/out
-chapter11/catchingException/catchingExceptionWithSuperclasses.iml
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
 
-chapter11/catchingExceptionsUsingClassException/.idea
-chapter11/catchingExceptionsUsingClassException/out
-chapter11/catchingExceptionsUsingClassException/catchingExceptionsUsingClassException.iml
+### VS Code ###
+.vscode/
